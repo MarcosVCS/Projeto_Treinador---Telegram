@@ -1,3 +1,5 @@
+
+
 OBS: está em desenvolvimento uma aplicação que permite cadastrar academias pesonalizadas. 
 Por enquanto, somente as academias abaixo estão cadastradas (além das 'Academia Padrão' e 'Academia Residencial Padrão'.
 
@@ -7,3 +9,7 @@ Nome ---------------------------- ID-----------Cidade-----------Estado
 'Academia do Valente'             3            Santos           SP
 'Bluefit Canal 5'                 4            Santos           SP
 'Academia Edifícios Bianco/ Nero' 5            Santos           SP
+
+
+
+
