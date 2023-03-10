@@ -15,6 +15,10 @@ OBS: Procure um médico antes de começar qualquer atividade física.
 
 ## Sobre o projeto
 
+### Versão 0.9 (beta)
+* O usuário agora pode clicar no exercício para ser redirecionado a uma página que o ensinará a fazer o movimento
+* Melhoria expressiva na estabilidade do programa
+
 ### Versão 0.8 (beta)
 * Projeto hospedado em servidor (GCP)
 * Possível preparar treinos semanais, individuais completos e individuais rápidos
