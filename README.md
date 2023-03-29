@@ -32,7 +32,7 @@ OBS: Procure um médico antes de começar qualquer atividade física.
 #### Em fase de desenvolvimento:
 * Treino para iniciantes
 * Maior atenção a treinos femininos
-* Inserção de mais informações a respeito dos exercícios (aparelhos e acessórios utilizados)
+* Cadastro completo do usuário (idade, peso, altura, redes sociais, CEP (para procurar academias próximas), etc.)
 * Cadastro de academias personalizadas
 
 
