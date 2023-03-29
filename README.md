@@ -15,6 +15,9 @@ OBS: Procure um médico antes de começar qualquer atividade física.
 
 ## Sobre o projeto
 
+### Versão 0.9.1 (beta)
+* Correção no Banco de Dados que impedia que usuários novos no Telegram utilizassem a aplicação
+
 ### Versão 0.9 (beta)
 * O usuário agora pode clicar no exercício para ser redirecionado a uma página que o ensinará a fazer o movimento
 * Melhoria expressiva na estabilidade do programa
